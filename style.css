@@ -9,3 +9,41 @@ body{
     background-color: white;
 }
 
+.maindiv{
+    display: flex;
+}
+.firstDiv , .secondDiv{
+    /* background-color: red; */
+    width: 50%;
+}
+.firstDiv{
+    /* background-color: yellow; */
+}
+.firstDiv img{
+    width: 100%;
+    height: auto;
+
+    margin: auto;
+    /* background-color: red; */
+}
+
+
+.secondDiv{
+    padding: 13% 0px;
+    font-size: 4.1rem;
+}
+.special-p{
+    color: rgb(107, 118, 226);
+    font-size: 6rem;
+}
+
+.btnx a{
+    font-size: 2rem;
+    text-decoration: none;
+    /* border: 1px solid black; */
+    padding: 15px;
+    /* border-radius: 20px; */
+    background-color: rgb(112, 112, 202);
+    color: white;
+}
+
